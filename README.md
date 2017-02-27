@@ -2,7 +2,7 @@
 notes on our wedding
 
 #Zero Matter of Business
--Pay the rest of wedding, give Makeda rent help money
+-Pay the rest of wedding, 
 
 # First Matter of Business
 - Get married
