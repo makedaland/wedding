@@ -6,7 +6,7 @@ notes on our wedding
 - Pick up the translated version of our certificates of singlehood.
 
 # Zero point five Matter of Business
-- pick up thetranslated singlehood certificates
+- pick up thetranslated singlehood certificates, and Oleg will change this line too!
 
 # First Matter of Business
 - Get married
