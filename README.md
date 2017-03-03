@@ -5,8 +5,9 @@ notes on our wedding
 - Pay the rest of wedding.
 - Pick up the translated version of our certificates of singlehood.
 
-# Zero point five Matter of Business
-- pick up thetranslated singlehood certificates, and Oleg will change this line too!
+# 0.5 five Matter of Business
+- pick up thetranslated singlehood certificates. And here I am
+  changing this line
 
 # First Matter of Business
 - Get married
