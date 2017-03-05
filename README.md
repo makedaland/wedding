@@ -25,10 +25,10 @@ Technical notes
 - Git uses several special files to configure or to automate the work
   with the repository.  One such file is *.gitignore*.  It is used to
   specify [glob](https://en.wikipedia.org/wiki/Glob_(programming))
-  patterns for the files it will never suggest to **stage**.
-  Typically, you would list in it names of the files that are
-  automatically generated when processing the source files stored in
-  your repository.
+  patterns for the files it will never suggest
+  to [stage](https://git-scm.com/docs/git-stage).  Typically, you
+  would list in it names of the files that are automatically generated
+  when processing the source files stored in your repository.
 
     Example *.gitignore* may look like this:
     ```
