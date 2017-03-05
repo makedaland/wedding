@@ -2,6 +2,7 @@
 notes on our wedding
 
 # Zero Matter of Business
+- celebrate oleg's passing of test!!!
 - Pay the rest of wedding.
 - Pick up the translated version of our certificates of singlehood.
 
