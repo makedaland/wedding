@@ -1,6 +1,8 @@
 # wedding
 notes on our wedding
 
+i love oleg soooo much!
+ 
 # Zero Matter of Business
 - celebrate oleg's passing of test!!!
 - Pay the rest of wedding.
