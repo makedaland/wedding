@@ -1,0 +1,14 @@
+* TODO Go over what Makeda has with Harel
+  - Might be pension or insurance
+
+* TODO Transfer contacts from Makeda's old phone
+  - Makeda is suspicious of her new phone, so we might root it (this
+    may break the phone! and will certainly break the warranty).
+
+* TODO Find information on Ukrainian citizenship
+  - Makeda wants to become a Ukrainian citizen.  Are there any
+    unforeseen consequences?
+
+* TODO Find life insurance policy to put Oleg on
+
+* TODO Let Makeda practice more on Git
